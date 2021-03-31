@@ -16,3 +16,9 @@ print(sys.version)
 Output:
 #GPU True
 #tf.Tensor(6.0, shape=(), dtype=float32)
+
+
+#-=-=-=-=-=-=
+
+pip lsit
+pip3 list
