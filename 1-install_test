@@ -1,5 +1,4 @@
-https://tensorflow.google.cn/tutorials/quickstart/beginner?hl=zh-cn
-
+#https: // tensorflow.google.cn / tutorials / quickstart / beginner?hl = zh - cn
 
 import tensorflow as tf
 import os
@@ -12,13 +11,12 @@ b = tf.constant(4.0)
 print(a + b)
 print(sys.version)
 
- 
-Output:
-#GPU True
-#tf.Tensor(6.0, shape=(), dtype=float32)
+#Output:
+# GPU True
+# tf.Tensor(6.0, shape=(), dtype=float32)
 
 
-#-=-=-=-=-=-=
+# -=-=-=-=-=-=
 
-pip lsit
-pip3 list
+#pip lsit
+#pip3 list
